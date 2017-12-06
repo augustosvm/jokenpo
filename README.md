@@ -1,2 +1,2 @@
 # junkepo
-Jokenpo app developed in React Native to Android and iOS
+Jokenpo app developed in React Native for Android and iOS
